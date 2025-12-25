@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/nizar/projects/asteroids/build",
+  "command": "/usr/bin/c++  -I/home/nizar/projects/asteroids/libs -std=gnu++23 -g3 -I/usr/include -o CMakeFiles/app.dir/src/objects.cpp.o -c /home/nizar/projects/asteroids/src/objects.cpp",
+  "file": "/home/nizar/projects/asteroids/src/objects.cpp",
+  "output": "CMakeFiles/app.dir/src/objects.cpp.o"
+},
+{
+  "directory": "/home/nizar/projects/asteroids/build",
+  "command": "/usr/bin/c++  -I/home/nizar/projects/asteroids/libs -std=gnu++23 -g3 -I/usr/include -o CMakeFiles/app.dir/src/game.cpp.o -c /home/nizar/projects/asteroids/src/game.cpp",
+  "file": "/home/nizar/projects/asteroids/src/game.cpp",
+  "output": "CMakeFiles/app.dir/src/game.cpp.o"
+},
+{
+  "directory": "/home/nizar/projects/asteroids/build",
+  "command": "/usr/bin/c++  -I/home/nizar/projects/asteroids/libs -std=gnu++23 -g3 -I/usr/include -o CMakeFiles/app.dir/src/utils.cpp.o -c /home/nizar/projects/asteroids/src/utils.cpp",
+  "file": "/home/nizar/projects/asteroids/src/utils.cpp",
+  "output": "CMakeFiles/app.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/home/nizar/projects/asteroids/build",
+  "command": "/usr/bin/c++  -I/home/nizar/projects/asteroids/libs -std=gnu++23 -g3 -I/usr/include -o CMakeFiles/app.dir/src/main.cpp.o -c /home/nizar/projects/asteroids/src/main.cpp",
+  "file": "/home/nizar/projects/asteroids/src/main.cpp",
+  "output": "CMakeFiles/app.dir/src/main.cpp.o"
+}
+]
